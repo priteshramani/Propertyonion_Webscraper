@@ -47,7 +47,9 @@ This is a real estate data scraping tool that extracts property listings from **
 
 ## 📸 App Snapshots
 
-> 📌 (app.png)
+
+ ![](view.png)
+
 
 ---
 
@@ -80,13 +82,17 @@ This project was developed as part of my **Data Science Internship** at **Meta S
 
 ## 📞 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- [GitHub](https://github.com/your-profile)
+- [LinkedIn](https://www.linkedin.com/in/pritesh-ramani/)
+
+
+---
+
+## ✨ Credits
+
+Built with 💙 as part of my **Data Science Internship at Meta Scifor Technologies**.
 
 ---
 
 ## 📑 License
 
-This project is for educational and demonstration purposes only.  
-All data scraped is publicly available on **PropertyOnion.com** at the time of scraping.
-
+This project is licensed under the MIT License. 
